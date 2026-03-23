@@ -1,9 +1,9 @@
-### Hi there, I'm Yonakie/Caiyi/Fish 👋
+## Hi there, I'm Yonakie/Caiyi/Fish 👋
 
 **AI Product Engineer | UI/UX Designer | Cross-disciplinary Problem Solver**
 
 
-✨ **Check out my Design & Code Portfolio:** https://buyuwebsite.web.app/
+✨ **Check out my Personal website!** https://buyuwebsite.web.app/
 
 ---
 
