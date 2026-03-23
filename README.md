@@ -1,6 +1,12 @@
-## Hi there, I'm Yonakie/Caiyi/Fish 👋
-
-**AI Product Engineer | UI/UX Designer | Cross-disciplinary Problem Solver**
+<div align="center">
+  <h1>
+    <font color="#00E5FF">✨ ℍ𝕚 𝕥𝕙𝕖𝕣𝕖, 𝕀'𝕞 Yonakie/Caiyi/Fish 👋</font>
+  </h1>
+  <h3>
+    <font color="#FF007F">Coding</font> | UI/UX Design | Finance
+  </h3>
+  <br/>
+</div>
 
 
 ✨ **Check out my Personal website!** https://buyuwebsite.web.app/
